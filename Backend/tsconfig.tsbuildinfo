@@ -1,0 +1,1 @@
+{"root":["./src/ormconfig.ts","./src/server.ts","./src/config/database.ts","./src/controllers/productcontroller.ts","./src/entities/product.ts","./src/middleware/multerconfig.ts","./src/routes/productroutes.ts"],"version":"5.8.2"}
